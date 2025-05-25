@@ -1,1 +1,1 @@
-https://github.com/danielsml10/DanielCV
+https://roadmap.sh/projects/single-page-cv
